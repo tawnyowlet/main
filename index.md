@@ -1,7 +1,7 @@
 ## Welcome to Tawny Owlet Page
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-# Covid 19 Resources
+## Covid 19 Resources
 - [Clark County, Nevada](https://www.southernnevadahealthdistrict.org/coronavirus#cases)
 - [State of Nevada Department of HHS](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9)
 - [Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america)
