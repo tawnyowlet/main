@@ -16,7 +16,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 
 ### Some links of interest in regards to the overall health of the athlete
 - [US Soccer PLAY ON: Return to Play Guidelines](https://www.ussoccer.com/playon)
-- [CDC's Covid 19 Considerations for Youth Sports](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/youth-sports.htmlJAMA article) 
+- [CDC's Covid 19 Considerations for Youth Sports](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/youth-sports.html), JAMA Article 
 - [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE)
 
 ### Schools in Nevada
