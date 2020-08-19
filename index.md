@@ -1,8 +1,14 @@
 ## Welcome to Tawny Owlet Page
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Covid 19 Resources
+- [Clark County, Nevada](https://www.southernnevadahealthdistrict.org/coronavirus#cases)
+- [State of Nevada Department of HHS] (https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9)
+- [Covid 19 Projections] (https://covid19.healthdata.org/united-states-of-america)
+- [Daily Testing Trends in the United States] (https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever)  Testing Positivity Rate by JHU state by state
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 
 ### Markdown
 
