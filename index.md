@@ -24,7 +24,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 
 If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 ```markdown
-## Time line
+# Time line
 - March 5, clubs and extracurriculars cancelled
 - March 15, schools close. March 18 businesses close,  March 21-May 9 nonessential businesses close.  March 24 large gatherings discouraged
 - March 31-May 9 official Stay At Home Order
@@ -42,7 +42,7 @@ If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllr
 - July CCSD Board of Trustees pivots to Distance Learning for first 90 Days
 - July Governor mandates masks for all schools (including children < 9 years old, ie. preschool and elementary): [Nevada Declaration Emergency Directive 208](https://www.scribd.com/document/470744272/Nevada-Declaration-Emergency-Directive-028#from_embed), mandate to wear masks in schools
 - August Charter schools encouraged to do full distance for first 30 days
-- August 18 [Desert Conference](https://www.usyouthsoccer.org/desert-conference/), Nevada teams prohibited from attending conference until further notice
+- August 18 [Desert Conference](https://www.usyouthsoccer.org/desert-conference/) cancelled. Nevada teams prohibited from attending conference until further notice
 - [Manchester Cup](http://surfcupsports.com/2020/04/07/nexen-manchester-city-cup-2020/) postponed to Memoridal Day Weekend, 2021
 ```
 ### Markdown
