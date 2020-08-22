@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/)
 
 TRYING THIS OUT, LINK TO NESTED PAGE
-- [.](https://tawnyowlet.github.io/nest/index.html)
+- [Nest](https://tawnyowlet.github.io/nest/index.html)
 - Pediatrics
 - Repository of weekly scientific articles
 
