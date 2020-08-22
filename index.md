@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [State of Nevada Department of HHS](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9)
 - [Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america)
 - [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state
--[Governor Sisolak Press Releases]-(https://nvhealthresponse.nv.gov/news-resources/press-releases/)
+- [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/)
 
 TRYING THIS OUT, LINK TO NESTED PAGE
 - [.](https://tawnyowlet.github.io/nest/index.html)
