@@ -36,12 +36,18 @@ If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllr
 (soccer phases do NOT correlate with economy phase nor are they tied to economy phase.  Governor has special instructions for sports).  
 - Club Soccer has separate rules governed by state soccer board. 
 - June 24 CCSD releases proposed plan for re-opening school, Board votes July 9
+- June 25 AAP Guidelines released
 - June 25 Governor mandates masks.  Declaration of Emergency: Masks for people > 9 years old 
 - June 29 Governor extends Phase 2 til at least the end of July
 - July CCSD Board of Trustees agree on Hybrid Plan
 - July CCSD Board of Trustees pivots to Distance Learning for first 90 Days
 ```
-- July Governor mandates masks for all schools (including children < 9 years old, ie. preschool and elementary): [Nevada Declaration Emergency Directive 208](https://www.scribd.com/document/470744272/Nevada-Declaration-Emergency-Directive-028#from_embed)
-- August Charter schools encouraged to do full distance for first 30 days
+- July 28 Governor mandates masks for all schools (including children < 9 years old, ie. preschool and elementary): [Nevada Declaration Emergency Directive 208](https://www.scribd.com/document/470744272/Nevada-Declaration-Emergency-Directive-028#from_embed)
+- August 7 Charter schools in Clark, Elk, and Washoe encouraged to do full distance for first 30 days
 - August 18 [Desert Conference](https://www.usyouthsoccer.org/desert-conference/) cancelled. Nevada teams prohibited from attending conference until further notice
 - [Manchester Cup](http://surfcupsports.com/2020/04/07/nexen-manchester-city-cup-2020/) postponed to Memoridal Day Weekend 2021
+- Aug 17 First day of school for HIS, St. Anthony's, Bishop Gorman, Pinecest, Foothills Montesorri
+- Aug 20 First postiive case at Bishop Gorman
+- Aug 21 NSYSL Moves to Phase 2 soccer, practice only, no 4v4 scrimmages per Governor
+- Aug 24 First day of school for CCSD, Coral, Las Vegas Day School
+-
