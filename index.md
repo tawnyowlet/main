@@ -10,6 +10,9 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 
 -[Sports and schools in Nevada](https://tawnyowlet.github.io/main/sports.md)
 or [here](tawnyowlet.github.io/main/sports.md)
+
+https://tawnyowlet.github.io/main/sports.md
+
 ### Sports in Nevada
 - 6/9/2020 link to [Nevada Interscholastic Activities Association Re-Opening Guidance](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/NIAA-Reopening-Guidance-6.9.20.pdf), CCSD high school sports postponed
 - 6/10/2020 link to [Roadmap to Recovery for Nevada: Organized Youth Sports Practice Only](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/Organized-Youth-Sports-Practice-Only.pdf)
