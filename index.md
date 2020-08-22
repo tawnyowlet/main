@@ -8,12 +8,10 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state
 -[Governor Sisolak Press Releases]-(https://nvhealthresponse.nv.gov/news-resources/press-releases/)
 
-TRYING THIS OUT, LINK TO NEXT PAGE
-- [Sports and schools in Nevada](https://tawnyowlet.github.io/main/sports.html)
-- Schools
+TRYING THIS OUT, LINK TO NESTED PAGE
+- [.](https://tawnyowlet.github.io/nest/index.html)
 - Pediatrics
-- 30 Day Challenges
-- Pandemic Recipes
+- Repository of weekly scientific articles
 
 
 
