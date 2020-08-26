@@ -6,7 +6,16 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [State of Nevada Department of HHS](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9). Statewide Data collection for Nevada
 - [Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america).  National projections for USA
 - [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state.  Examine the local variation of test positivity rate. Lower than 5-7% indicates good community control.  This number is a reflection of access to testing, contact tracing, and containment of community spread with recommended quarantine and isolation. Also addresses the question, does your community adhere to other public health measures: masks, social distancing, hand washing?
-- [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/)
+- [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/).  Highlights include the Aug 14 Road to Recovery.  
+Critical statewide metrics: hospital capacity, access to PPE, testing capacity, contact tracing success, protection of vulnerable populations, enforcement.  
+At the county level elevated disease transmission is assessed by the following: 
+1. Not enough tests (if avg # tests per day <150 per 100,000)
+2. Case rate (if >200 per 100,000)
+3. Case rate >50 per 100,000 AND test positiviyt >7.0%
+If county meets two of the three criteria in 2 consecutive weeks it is flagged. (0 low risk, 1 growing risk, 2 moderate risk, 3 high level risk)
+
+Mitigation levels: Baseline: current directive, Mitigation Level 1 target approach to reduce capcity and gathering in that county (or if high risk setting like food, pool, gym, bar, the capacity may be reduced from 50 to 25%) reduce gathering to 25 people, etc, Mitigation 2 potential return to Phase 1
+
 - [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also avaialbe on podcast and spotify
 
 TRYING THIS OUT, LINK TO NESTED PAGE
