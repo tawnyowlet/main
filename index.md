@@ -14,7 +14,10 @@ At the county level elevated disease transmission is assessed by the following:
 3. Case rate >50 per 100,000 AND test positivity > 7.0%
 If county meets two of the three criteria in 2 consecutive weeks it is flagged. (0 low risk, 1 growing risk, 2 moderate risk, 3 high level risk)
 
-Mitigation levels: Baseline: current directive, Mitigation Level 1 target approach to reduce capcity and gathering in that county (or if high risk setting like food, pool, gym, bar, the capacity may be reduced from 50 to 25%) reduce gathering to 25 people, etc, Mitigation 2 potential return to Phase 1
+3 Mitigation levels: 
+1. Baseline: current directive
+2. Mitigation Level 1 target approach to reduce capcity and gathering in that county (or if high risk setting like food, pool, gym, bar, the capacity may be reduced from 50 to 25%) reduce gathering to 25 people, etc, 
+3. Mitigation 2 potential return to Phase 1
 
 - [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also avaialbe on podcast and spotify
 
@@ -22,8 +25,7 @@ TRYING THIS OUT, LINK TO NESTED PAGE
 - [Nest](https://tawnyowlet.github.io/nest/index.html)
 - Pediatrics
 - Repository of weekly scientific articles
-
-
+- [Markdown](https://github.com/tchapi/markdown-cheatsheet)
 
 ### Markdown
 
