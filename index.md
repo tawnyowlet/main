@@ -11,7 +11,7 @@ Critical statewide metrics: hospital capacity, access to PPE, testing capacity, 
 At the county level elevated disease transmission is assessed by the following: 
 1. Not enough tests (if avg # tests per day <150 per 100,000)
 2. Case rate (if >200 per 100,000)
-3. Case rate >50 per 100,000 AND test positiviyt >7.0%
+3. Case rate >50 per 100,000 AND test positivity > 7.0%
 If county meets two of the three criteria in 2 consecutive weeks it is flagged. (0 low risk, 1 growing risk, 2 moderate risk, 3 high level risk)
 
 Mitigation levels: Baseline: current directive, Mitigation Level 1 target approach to reduce capcity and gathering in that county (or if high risk setting like food, pool, gym, bar, the capacity may be reduced from 50 to 25%) reduce gathering to 25 people, etc, Mitigation 2 potential return to Phase 1
