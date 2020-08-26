@@ -2,10 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 ## Covid 19 Resources
-- [Clark County, Nevada](https://www.southernnevadahealthdistrict.org/coronavirus#cases)
-- [State of Nevada Department of HHS](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9)
-- [Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america)
-- [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state.  Incredible look at the local variation of test positivity rate.  A good reflection of local access to testing resources, success of contact tracing, and containment of community spread. 5-7% indicates good control.  How does your county fare in regards to contact tracing, testing, the community adherence to recommended public health measures: masks, social distancing, hand washing?
+- [Clark County, Nevada](https://www.southernnevadahealthdistrict.org/coronavirus#cases). Data collected by the Southern Nevada Health District
+- [State of Nevada Department of HHS](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9). Statewide Data collection for Nevada
+- [Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america).  National projections for USA
+- [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state.  Examine the local variation of test positivity rate. Lower than 5-7% indicates good community control.  This number is a reflection of access to testing, contact tracing, and containment of community spread with recommended quarantine and isolation. Also addresses the question, does your community adhere to other public health measures: masks, social distancing, hand washing?
 - [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/)
 - [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also avaialbe on podcast and spotify
 
