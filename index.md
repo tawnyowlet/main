@@ -5,8 +5,9 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [Clark County, Nevada](https://www.southernnevadahealthdistrict.org/coronavirus#cases)
 - [State of Nevada Department of HHS](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9)
 - [Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america)
-- [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state
+- [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state.  Incredible look at the local variation of test positivity rate.  A good reflection of local access to testing resources, success of contact tracing, and containment of community spread. 5-7% indicates good control.  How does your county fare in regards to contact tracing, testing, the community adherence to recommended public health measures: masks, social distancing, hand washing?
 - [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/)
+- [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also avaialbe on podcast and spotify
 
 TRYING THIS OUT, LINK TO NESTED PAGE
 - [Nest](https://tawnyowlet.github.io/nest/index.html)
