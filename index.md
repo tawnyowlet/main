@@ -26,6 +26,7 @@ TRYING THIS OUT, LINK TO NESTED PAGE
 - Pediatrics
 - Repository of weekly scientific articles
 - [Markdown](https://github.com/tchapi/markdown-cheatsheet)
+- [Markdown Tutorial, Practices](https://www.markdowntutorial.com/
 
 ### Markdown
 
