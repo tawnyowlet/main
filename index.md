@@ -55,6 +55,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ``` 
 
+[PDG Simple Pages](https://pdg137.github.io/simple-pages/pages/example/?fbclid=IwAR3cimBq6KdUihmAzqIduCS_XNQHvOxlJWmo3qQvQUdlzTnWvJYQDrRu930)
+[PDG Source Code](https://raw.githubusercontent.com/pdg137/simple-pages/master/pages/example/index.md?fbclid=IwAR3cimBq6KdUihmAzqIduCS_XNQHvOxlJWmo3qQvQUdlzTnWvJYQDrRu930)
 [Google Fonts](https://fonts.google.com/?fbclid=IwAR03Hliez3TxH85mCT2DZQgMc3owx1pGTS51wnBkIPZLp0bgTDlRAERFWQUFor more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).)
 
 ### Jekyll Themes
