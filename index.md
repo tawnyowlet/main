@@ -55,7 +55,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ``` 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Google Fonts](https://fonts.google.com/?fbclid=IwAR03Hliez3TxH85mCT2DZQgMc3owx1pGTS51wnBkIPZLp0bgTDlRAERFWQUFor more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).)
 
 ### Jekyll Themes
 
