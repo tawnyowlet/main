@@ -25,15 +25,13 @@ Road to Recovery for Nevada
    
 ## Covid 19 CME materials
 - [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also avaialbe on podcast and spotify
-- [Coursera, Contact Tracing Course from Johns Hopkins Univeristy](https://www.coursera.org/learn/covid-19-contact-tracing).  A free online course to better understand the timeline for contact tracing. ***Key Points:***
->
-* A person can be infected by Covid 18 and not know it.  The incubation period (time to developesymptoms) can be 2-14 days.  The average incubation period is 5 days.  Person is most infectious to others on Day 1 of symptoms, but can be infectious to others from T minus 2 days to T + 10 days. (T = Day 1).  
+- [Coursera, Contact Tracing Course](https://www.coursera.org/learn/covid-19-contact-tracing).  A free online course from Johns Hopkins University. ***Key Points:***
+>* A person can be infected by Covid 18 and not know it.  The incubation period (time to developesymptoms) can be 2-14 days.  The average incubation period is 5 days.  Person is most infectious to others on Day 1 of symptoms, but can be infectious to others from T minus 2 days to T + 10 days. (T = Day 1).  
    * _Isolation_ keep sick person separate for the duration of the infectious period.  T-2 to T+10 days and if symptoms imroving and afebrile more than 24 hours can come out of isolation, whichever is longer `(as of 8-28-2020)`.  
    * _Quarantine_ restrict the movement of healthy people for 14 days since last contact with index case.  
    * What is considered exposure?  Contact with index case 2 days before symptoms and anytime during illness.  
    * What types of contact are considered high risk? physical contact, less than six feet for more than 15 minites, > six feet apart bu inside the same indoor room for a long time (ie. one hour) because of the risk of exposure to surface contaminates.  Masked or unamsked? Contact local health department to consider community prevalance rate and determination of low, mid, or high risk exposures.  
-   * Mortality rate of Covid if ages 65-75, 10 percent.  If  75-85, 4-10 percent, if >85, 10 percent die. `(updated 8-29-2020)`
-<br>
+   * Mortality rate of Covid if ages 65-75, 10 percent.  If  75-85, 4-10 percent, if >85, 10 percent die. `(updated 8-29-2020)`<br>
 
 TRYING THIS OUT, LINK TO NESTED PAGE
 - [Nest](https://tawnyowlet.github.io/nest/index.html)
