@@ -7,17 +7,15 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america).  National projections for USA
 - [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state.   So much local variation of test positivity rate within our country! Lower than 5-7% indicates good community control.  This number is a reflection of access to testing, contact tracing, and containment of community spread with recommended quarantine and isolation. Also indirectly answers the question, does your community adhere to recommended public health measures: masks, social distancing, hand washing?
 - [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/).  The Aug 14 [Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf) key talking points:  
->*These critical statewide metrics are tracked and monitored: hospital capacity, access to PPE, testing capacity, contact tracing success, protection of vulnerable populations, enforcement.*<br>  
-
-   1. At the county level elevated disease transmission is assessed by the following: 
+>*Statewide critical metrics are tracked and monitored: hospital capacity, access to PPE, testing capacity, contact tracing success, protection of vulnerable populations, enforcement, and can supercede Covid Data.*<br>  
+>*If county meets two of the three criteria in 2 consecutive weeks it is flagged. (0 low risk, 1 growing risk, 2 moderate risk, 3 high level risk)*<br>   1. At the county level elevated disease transmission is assessed by the following: 
       * Not enough tests (if avg # tests per day <150 per 100,000)
       * Case rate (if >200 per 100,000)
       * Case rate >50 per 100,000 AND test positivity > 7.0%
->*If county meets two of the three criteria in 2 consecutive weeks it is flagged. (0 low risk, 1 growing risk, 2 moderate risk, 3 high level risk)*<br>
    2. Mitigation levels determined each week by the Tast Force  for each couty to determine continuing, relaxing, or escalating level: 
       * Baseline: current directive
-      *Mitigation Level 1: target approach to reduce capcity and gathering in that county.  For example certain high risk settings like restaurants, the pool, gym, bar, the capacity may have capacity reducted from 50% to 25%, or a creed to reduce public gatherings to 25 people, etc, 
-      *Mitigation 2: potential return to Phase 1 or to close indoor dining, etc.  `(updated 8-29-2020)`
+      * Mitigation Level 1: target approach to reduce capcity and gathering in that county.  For example certain high risk settings like restaurants, the pool, gym, bar, the capacity may have capacity reducted from 50% to 25%, or a creed to reduce public gatherings to 25 people, etc, 
+      * Mitigation 2: potential return to Phase 1 or to close indoor dining, etc.  `(updated 8-29-2020)`
 ## Covid 19 CME materials
 - [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also avaialbe on podcast and spotify
 - [Coursera, Contact Tracing Course from Johns Hopkins Univeristy](https://www.coursera.org/learn/covid-19-contact-tracing).  A free online course to better understand the timeline for contact tracing. Key Points:
@@ -34,7 +32,7 @@ TRYING THIS OUT, LINK TO NESTED PAGE
 - Repository of weekly scientific articles
 - [Markdown](https://github.com/tchapi/markdown-cheatsheet)
 - [Markdown Tutorial, Practices](https://www.markdowntutorial.com/
-
+- [Change color backgroung](https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
