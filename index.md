@@ -12,6 +12,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
       * Not enough tests (if avg # tests per day <150 per 100,000)
       * Case rate (if >200 per 100,000)
       * Case rate >50 per 100,000 AND test positivity > 7.0%
+      
    2. Mitigation levels determined each week by the Tast Force  for each couty to determine continuing, relaxing, or escalating level: 
       * Baseline: current directive
       * Mitigation Level 1: target approach to reduce capcity and gathering in that county.  For example certain high risk settings like restaurants, the pool, gym, bar, the capacity may have capacity reducted from 50% to 25%, or a creed to reduce public gatherings to 25 people, etc, 
