@@ -20,6 +20,8 @@ Road to Recovery for Nevada
    * Baseline: current directive
    * Mitigation Level 1: target approach to reduce capcity and gathering in that county.  For example certain high risk settings like restaurants, the pool, gym, bar, the capacity may have capacity reducted from 50% to 25%, or a creed to reduce public gatherings to 25 people, etc, 
    * Mitigation 2: potential return to Phase 1 or to close indoor dining, etc.  `(updated 8-29-2020)`
+   
+   
 ## Covid 19 CME materials
 - [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also avaialbe on podcast and spotify
 - [Coursera, Contact Tracing Course from Johns Hopkins Univeristy](https://www.coursera.org/learn/covid-19-contact-tracing).  A free online course to better understand the timeline for contact tracing. Key Points:
