@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [National Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america), Collected by IHME
 - [Daily Testing Trends per State](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), collected by JHU. **Testing Positivity Rate**  Lower than 5-7% indicates good community control.  This number reflects access to testing, contact tracing, and containment of community spread. Also an indirect measures of the question, "Does this community adhere to recommended public health measures: masks, social distancing, and hand washing?"
 - [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/)    
-- Aug 14, 2020 Nevada's ***[Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf) key talking points:***
+- Aug 14, 2020 Nevada's ***[Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf). Key talking points:***
 
 >*Several statewide critical metrics which are continuously tracked: hospital capacity, access to PPE, testing capacity, contact tracing success, protection of vulnerable populations, enforcement, and can supercede Covid Data.*<br>  
 Also,
@@ -24,10 +24,8 @@ Also,
    * Mitigation 2: potential return to Phase 1 or to close indoor dining, etc.  *(updated 8-29-2020)*
    
 ## Covid 19 CME materials
-- [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also avaialbe on podcast and spotify
-- [Coursera, Contact Tracing Course](https://www.coursera.org/learn/covid-19-contact-tracing), free course from JHU
-
-***Key Points:***
+- [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also on PodCast and Spotify
+- [Coursera, Contact Tracing Course](https://www.coursera.org/learn/covid-19-contact-tracing), free course from JHU. ***Key Points:***
 > A person can be infected by Covid 18 and not know it.  The incubation period (time to developing sx) can be 2-14 days.  Avg incubation period is 5 days.  Person is most infectious to others on Day 1 of symptoms, but can be infectious to others from T minus 2 days (pre-symptomatic phase) to T + 10 days. (T = Day 1).  <br>
 
    * _Isolation_ keeps a sick person separate for the duration of the infectious period.  T-2 to T+10 days and if symptoms improving and afebrile more than 24 hours can come out of isolation, whichever is longer *(as of 8-28-2020).*  
