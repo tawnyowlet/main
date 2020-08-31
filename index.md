@@ -10,17 +10,17 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pa
 - [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/)    
 - ***Aug 14, 2020 Nevada [Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf) key talking points:***
 
->*Several statewide critical metrics which are continuously tracked and monitored: hospital capacity, access to PPE, testing capacity, contact tracing success, protection of vulnerable populations, enforcement, and can supercede Covid Data.*<br>  
+>*Several statewide critical metrics which are continuously tracked: hospital capacity, access to PPE, testing capacity, contact tracing success, protection of vulnerable populations, enforcement, and can supercede Covid Data.*<br>  
 
 Also,
->*If county meets two of the three criteria in 2 consecutive weeks it is flagged by the task force weekly. (0 low risk, 1 growing risk, 2 moderate risk, 3 high level risk)*<br> 
+>*If county meets two of the three criteria in 2 consecutive weeks it is flagged by the Task Force. (0=low risk, 1=growing risk, 2=moderate risk, 3=high level risk)*<br> 
 
 1. At the county level elevated disease transmission is assessed by the following: 
    * Not enough tests (if avg # tests per day <150 per 100,000)
    * Case rate (if >200 per 100,000)
    * Case rate >50 per 100,000 AND test positivity > 7.0%
       
-2. Mitigation levels determined each week by the Tast Force  for each couty to determine continuing, relaxing, or escalating level: 
+2. The Tast Force will assess each county's risk to determine whether the level should be continued, relaxed, or escalated.  In same areas, specific businesses or sectors may be targeted.
    * Baseline: current directive
    * Mitigation Level 1: target approach to reduce capcity and gathering in that county.  For example certain high risk settings like restaurants, the pool, gym, bar, the capacity may have capacity reducted from 50% to 25%, or a creed to reduce public gatherings to 25 people, etc, 
    * Mitigation 2: potential return to Phase 1 or to close indoor dining, etc.  `(updated 8-29-2020)`
