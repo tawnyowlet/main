@@ -42,8 +42,9 @@ TRYING THIS OUT, LINK TO NESTED PAGE
 - Pediatrics
 - Repository of weekly scientific articles
 - [Markdown](https://github.com/tchapi/markdown-cheatsheet)
-- [Markdown Tutorial, Practices](https://www.markdowntutorial.com/
+- [Markdown Tutorial, Practices](https://www.markdowntutorial.com/)
 - [Change color backgroung](https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
