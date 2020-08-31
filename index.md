@@ -1,6 +1,6 @@
 ## Welcome to Tawny Owlet Page
 
-You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 ## Covid 19 Resources for tracking disease
 - [Clark County of Nevada COVID data](https://www.southernnevadahealthdistrict.org/coronavirus#cases), Collected by SNHD
 - [State of Nevada COVID data](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9), Collected by Nevada HHS
