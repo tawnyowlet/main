@@ -37,13 +37,16 @@ Also,
    * What types of contact are considered high risk? physical contact, less than six feet for more than 15 minites, > six feet apart but inside the same indoor room for a long time (ie. one hour) because of the risk of exposure to surface contaminates.  Masked or unamsked? Contact local health department to consider community prevalance rate and determination of low, mid, or high risk exposures.  
    * Mortality rate of Covid if ages 65-75, 10 percent.  If  75-85, 4-10 percent, if >85, 10 percent die. `(updated 8-29-2020)`
 
-TRYING THIS OUT, LINK TO NESTED PAGE
+LINKS TO NESTED PAGE
 - [Nest](https://tawnyowlet.github.io/nest/index.html)
 - Pediatrics
 - Repository of weekly scientific articles
 - [Markdown](https://github.com/tchapi/markdown-cheatsheet)
 - [Markdown Tutorial, Practices](https://www.markdowntutorial.com/)
 - [Change color backgroung](https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/)
+- [PDG Simple Pages](https://pdg137.github.io/simple-pages/pages/example/?fbclid=IwAR3cimBq6KdUihmAzqIduCS_XNQHvOxlJWmo3qQvQUdlzTnWvJYQDrRu930)
+- [PDG Source Code](https://raw.githubusercontent.com/pdg137/simple-pages/master/pages/example/index.md?fbclid=IwAR3cimBq6KdUihmAzqIduCS_XNQHvOxlJWmo3qQvQUdlzTnWvJYQDrRu930)
+- [Google Fonts](https://fonts.google.com/?fbclid=IwAR03Hliez3TxH85mCT2DZQgMc3owx1pGTS51wnBkIPZLp0bgTDlRAERFWQU)
 
 ### Markdown
 
@@ -66,10 +69,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ``` 
-
-[PDG Simple Pages](https://pdg137.github.io/simple-pages/pages/example/?fbclid=IwAR3cimBq6KdUihmAzqIduCS_XNQHvOxlJWmo3qQvQUdlzTnWvJYQDrRu930)
-[PDG Source Code](https://raw.githubusercontent.com/pdg137/simple-pages/master/pages/example/index.md?fbclid=IwAR3cimBq6KdUihmAzqIduCS_XNQHvOxlJWmo3qQvQUdlzTnWvJYQDrRu930)
-[Google Fonts](https://fonts.google.com/?fbclid=IwAR03Hliez3TxH85mCT2DZQgMc3owx1pGTS51wnBkIPZLp0bgTDlRAERFWQU)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
