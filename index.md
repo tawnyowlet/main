@@ -1,6 +1,6 @@
 ## Welcome to Tawny Owlet Page
 
-You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 ## Covid 19 Resources for tracking disease
 - [Clark County of Nevada COVID data](https://www.southernnevadahealthdistrict.org/coronavirus#cases), Collected by SNHD
 - [State of Nevada COVID data](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9), Collected by Nevada HHS
@@ -29,6 +29,7 @@ Also,
 
 ***Key Points:***
 > A person can be infected by Covid 18 and not know it.  The incubation period (time to developing sx) can be 2-14 days.  Avg incubation period is 5 days.  Person is most infectious to others on Day 1 of symptoms, but can be infectious to others from T minus 2 days (pre-symptomatic phase) to T + 10 days. (T = Day 1).  <br>
+
    * _Isolation_ keeps a sick person separate for the duration of the infectious period.  T-2 to T+10 days and if symptoms improving and afebrile more than 24 hours can come out of isolation, whichever is longer *(as of 8-28-2020).*  
    * _Quarantine_ restricts the movement of healthy people for 14 days since last contact with index case.  
    * What is considered exposure?  Contact with index case 2 days before symptoms and anytime during illness.  
