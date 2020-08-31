@@ -2,10 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 ## Covid 19 Resources
-- [Clark County, Nevada](https://www.southernnevadahealthdistrict.org/coronavirus#cases). Data collected by the Southern Nevada Health District
-- [State of Nevada Department of HHS](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9). Statewide Data collection for Nevada
-- [Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america).  National projections for USA
-- [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state.   So much local variation of test positivity rate within our country! Lower than 5-7% indicates good community control.  This number is a reflection of access to testing, contact tracing, and containment of community spread with recommended quarantine and isolation. Also indirectly answers the question, does your community adhere to recommended public health measures: masks, social distancing, hand washing?
+- [Clark County of Nevada COVID data](https://www.southernnevadahealthdistrict.org/coronavirus#cases). Collected by SNHD
+- [State of Nevada COVID data](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9). Collected by Nevada HHS
+- [National Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america).  Collected by IHME
+- [Daily Testing Trends in the United States per State](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), collected by JHI.  
+**Testing Positivity Rate** shows local variation by state! Lower than 5-7% indicates good community control.  This number reflects access to testing, contact tracing, and containment of community spread. Also an indirect measures of the question, does your community adhere to recommended public health measures: masks, social distancing, hand washing?
 - [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/).  The Aug 14 [Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf) key talking points:  
 
 >*Statewide critical metrics are tracked and monitored: hospital capacity, access to PPE, testing capacity, contact tracing success, protection of vulnerable populations, enforcement, and can supercede Covid Data.*<br>  
