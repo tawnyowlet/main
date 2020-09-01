@@ -12,9 +12,9 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - Aug 14, 2020 Nevada's [Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf)
 
 ***Key talking points:***
->*Several statewide critical metrics which are continuously tracked: hospital capacity, access to PPE, testing capacity, contact tracing success, protection of vulnerable populations, enforcement, and can supercede Covid Data.*<br>  
+>*Several statewide critical metrics are continuously tracked: hospital capacity, access to PPE, testing capacity, contact tracing success, protection of vulnerable populations, enforcement.  Concern for these metrics can influence interpretation of Covid data.*<br>  
 Also,
->*If county meets two of the three criteria in 2 consecutive weeks it is flagged by the Task Force. (0=low risk, 1=growing risk, 2=moderate risk, 3=high level risk)*<br> 
+>*If county meets two of the three criteria in two consecutive weeks it is flagged by the Task Force. (0=low risk, 1=growing risk, 2=moderate risk, 3=high level risk)*<br> 
 
 1. At the county level elevated disease transmission is assessed by the following: 
    * Not enough tests (if avg # tests per day <150 per 100,000)
@@ -27,17 +27,17 @@ Also,
    * Mitigation 2: potential return to Phase 1 or to close indoor dining, etc.  *(updated 8-29-2020)*
    
 ## Covid 19 CME materials
-- [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/), also on PodCast and Spotify
+- [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/)
 - [Coursera, Contact Tracing Course](https://www.coursera.org/learn/covid-19-contact-tracing), free course from JHU. 
 
 ***Key Points:***
-> A person can be infected by Covid 18 and not know it.  The incubation period (time to developing sx) can be 2-14 days.  Avg incubation period is 5 days.  Person is most infectious to others on Day 1 of symptoms, but can be infectious to others from T minus 2 days (pre-symptomatic phase) to T + 10 days. (T = Day 1).  <br>
+> A person can be infected by Covid 19 and not know it.  The incubation period (time to developing sx) can be 2-14 days.  Avg incubation period is 5 days.  Person is most infectious to others on Day 1 of symptoms, but can be infectious to others from T minus 2 days (pre-symptomatic phase) to T + 10 days. (T = Day 1).  <br>
 
-   * _Isolation_ keeps a sick person separate for the duration of the infectious period.  T-2 to T+10 days and if symptoms improving and afebrile more than 24 hours can come out of isolation, whichever is longer *(as of 8-28-2020).*  
+   * _Isolation_ keeps a sick person separate for the duration of the infectious period.  T-2 to T+10 days.  If symptoms improving and afebrile more than 24 hours can come out of isolation, whichever is longer *(as of 8-28-2020).*  
    * _Quarantine_ restricts the movement of healthy people for 14 days since last contact with index case.  
    * What is considered exposure?  Contact with index case 2 days before symptoms and anytime during illness.  
-   * What types of contact are considered high risk? physical contact, less than six feet for more than 15 minites, > six feet apart but inside the same indoor room for a long time (ie. one hour) because of the risk of exposure to surface contaminates.  Masked or unamsked? Contact local health department to consider community prevalance rate and determination of low, mid, or high risk exposures and recommendation for quarantine.  
-   * Mortality rate of Covid if ages 65-75, 10 percent.  If  75-85, 4-10 percent, if >85, 10 percent die. *(updated 8-29-2020)*
+   * What types of contact are considered high risk? physical contact, less than six feet for more than 15 minites, > six feet apart but inside the same indoor room for a long time (ie. one hour) because of the risk of exposure to surface contaminates.  Masked or unamsked? Contact local health department to consider community prevalance rate, determination of low/mid/high risk exposures, and recommendation for quarantine.  
+   * Death rate Rates for Covid: Ages 65-75, 2-5% mortality.  ages 75-85, 4-10% mortality, if age>85, 10% mortality . *(as of 8-29-2020)*
 
 LINKS TO NESTED PAGE
 - [Nest](https://tawnyowlet.github.io/nest/index.html)
