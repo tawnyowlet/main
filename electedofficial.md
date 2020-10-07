@@ -24,13 +24,13 @@
 
 Current Elected Officials
 
-City Ward:   4 - Dan H. Stewart/  won 50% of primary 2020.  Re- elected every two years.
-U.S. Senate:   Jacky Rosen, Catherine Cortez-Masto
-U.S. Congress:   3 - Susie Lee (D)
-State Senate:   5 - Joyce Woodhouse (D)
-State Assembly:   29 - Lesley E. Cohen (D)
-School District:   A - Deanna L. Wright Term Limits.  2020 New candidates, re-election
-University Regent:   3 - Kevin Page
-Board of Education:   3 - Felicia Ortiz
-Minor Civil Division:   Henderson
-Township:   Henderson
+- City Ward:   4 - Dan H. Stewart/  won 50% of primary 2020.  Re- elected every two years.
+- U.S. Senate:   Jacky Rosen, Catherine Cortez-Masto
+- U.S. Congress:   3 - Susie Lee (D)
+- State Senate:   5 - Joyce Woodhouse (D)
+- State Assembly:   29 - Lesley E. Cohen (D)
+- School District:   A - Deanna L. Wright Term Limits.  2020 New candidates, re-election
+- University Regent:   3 - Kevin Page
+- Board of Education:   3 - Felicia Ortiz
+- Minor Civil Division:   Henderson
+- Township:   Henderson
