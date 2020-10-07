@@ -34,3 +34,5 @@ Current Elected Officials
 - Board of Education:   3 - Felicia Ortiz
 - Minor Civil Division:   Henderson
 - Township:   Henderson
+
+[2020 Nevada Ballot Measures](https://ballotpedia.org/Nevada_2020_ballot_measures)
