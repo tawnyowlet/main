@@ -35,5 +35,6 @@ Current Elected Officials
 - Minor Civil Division:   Henderson
 - Township:   Henderson
 
+[Clark County Nevada Ballot Questions, arguments for and against each position](https://www.clarkcountynv.gov/government/departments/elections/2020-ballot-questions.php)
 [2020 Nevada Ballot Measures](https://ballotpedia.org/Nevada_2020_ballot_measures)
 [League of Women Voters of Nevada](https://lwvnvblog.org/?fbclid=IwAR0BKg75P7dE_y_Up6AlM0rmIZ--ui-1mGef1d7bslWXQn8ovEv-n4u9M44)
