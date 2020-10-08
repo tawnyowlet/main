@@ -21,7 +21,7 @@ which covers areas West of Eastern, and the neighborhoods Anthem, Seven Hills.
 
 [Council Wards in Henderson](https://www.cityofhenderson.com/docs/default-source/geographic-information-services-docs/printable-maps/miscellaneous/councilwards.pdf)
 
-Current Elected Officials
+## Current Elected Officials
 
 - City Ward:   4 - Dan H. Stewart/  won 50% of primary 2020.  Re- elected every two years.
 - U.S. Senate:   Jacky Rosen, Catherine Cortez-Masto
@@ -34,6 +34,8 @@ Current Elected Officials
 - Minor Civil Division:   Henderson
 - Township:   Henderson
 
-[Clark County Nevada Ballot Questions, arguments for and against each position](https://www.clarkcountynv.gov/government/departments/elections/2020-ballot-questions.php)
-[2020 Nevada Ballot Measures](https://ballotpedia.org/Nevada_2020_ballot_measures)
-[League of Women Voters of Nevada](https://lwvnvblog.org/?fbclid=IwAR0BKg75P7dE_y_Up6AlM0rmIZ--ui-1mGef1d7bslWXQn8ovEv-n4u9M44)
+## Exploring the ballot questions
+
+* [Clark County Nevada Ballot Questions, arguments for and against each position](https://www.clarkcountynv.gov/government/departments/elections/2020-ballot-questions.php)
+* [2020 Nevada Ballot Measures](https://ballotpedia.org/Nevada_2020_ballot_measures)
+* [League of Women Voters of Nevada](https://lwvnvblog.org/?fbclid=IwAR0BKg75P7dE_y_Up6AlM0rmIZ--ui-1mGef1d7bslWXQn8ovEv-n4u9M44)
