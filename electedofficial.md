@@ -28,7 +28,7 @@ Current Elected Officials
 - U.S. Congress:   3 - Susie Lee (D)
 - State Senate:   5 - Joyce Woodhouse (D)
 - State Assembly:   29 - Lesley E. Cohen (D)
-- School District:   A - Deanna L. Wright Term Limits.  2020 New candidates, re-election
+- School District:   A - Deanna L. Wright at Term Limits.  2020 results pending
 - University Regent:   3 - Kevin Page
 - Board of Education:   3 - Felicia Ortiz
 - Minor Civil Division:   Henderson
