@@ -13,10 +13,9 @@
 - [School Star Rating and Trustee Map](http://dzg.ccsd.net/wp-content/uploads/2020/08/DZG-96150_Board-Trustees-NSPF-District-wide-32x40.pdf)
 
 ## Local Government - Clark County
-- Clark County Commissioner [Jim Gibson for District G](https://www.clarkcountynv.gov/government/board_of_county_commissioners/district_g/_district_map_and_address_locator_tool.php).  Commissioner:   G - Jim Gibson (D).  Seven member commissions, staggered four year terms.  Gibson , then age 69, was appointed by Democrat Gov Sandoval to replace Commissioner Mary Beth Scow when she resigned  until her seat ended June 2018.  He was then elected to continue the position.  Gibson served three terms as Henderson’s mayor from 1997- 2009.  He will be up for re-election in 2022
- - Clark County Commmisioner [District A covers areas West of Eastern and around Anthem, Seven Hills.  Michael Naft](https://www.clarkcountynv.gov/government/board_of_county_commissioners/district_a/district_map_and_address_locator_tool.php)
-
-
+- Clark County Commissioner [Jim Gibson represents District G](https://www.clarkcountynv.gov/government/board_of_county_commissioners/district_g/_district_map_and_address_locator_tool.php).  Commissioner:   G - Jim Gibson (D).  Seven member commissions, staggered four year terms.  Gibson , then age 69, was appointed by Democrat Gov Sandoval to replace Commissioner Mary Beth Scow when she resigned  until her seat ended June 2018.  He was then elected to continue the position.  Gibson served three terms as Henderson’s mayor from 1997- 2009.  He will be up for re-election in 2022
+ - Clark County Commmisioner [Michael Naft represents District A](https://www.clarkcountynv.gov/government/board_of_county_commissioners/district_a/district_map_and_address_locator_tool.php)
+which covers areas West of Eastern, and the neighborhoods Anthem, Seven Hills.  
 ## Local Government - City of Henderson
  
 
