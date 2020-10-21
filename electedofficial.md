@@ -20,8 +20,7 @@ which covers areas West of Eastern, and the neighborhoods Anthem, Seven Hills.
 
 ## Local Government - City of Henderson
 - [Parcel Look Up](https://tawnyowlet.github.io/main/zone.html)
-
-[Council Wards in Henderson](https://www.cityofhenderson.com/docs/default-source/geographic-information-services-docs/printable-maps/miscellaneous/councilwards.pdf)
+- [Council Wards in Henderson](https://www.cityofhenderson.com/docs/default-source/geographic-information-services-docs/printable-maps/miscellaneous/councilwards.pdf)
 
 ## Current Elected Officials
 
