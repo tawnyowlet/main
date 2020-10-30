@@ -29,6 +29,8 @@ Also,
 ## Covid 19 CME materials
 - [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/)
 - [Coursera, Contact Tracing Course](https://www.coursera.org/learn/covid-19-contact-tracing), free course from JHU. 
+- [Covid Treatment Guidelines, live document from NIH](https://www.covid19treatmentguidelines.nih.gov/)
+- [Covid Clinical Studies, preventionnetwork.org](https://coronaviruspreventionnetwork.org/)
 
 ***Key Points:***
 > A person can be infected by Covid 19 and not know it.  The incubation period (time to developing sx) can be 2-14 days.  Avg incubation period is 5 days.  Person is most infectious to others on Day 1 of symptoms, but can be infectious to others from T minus 2 days (pre-symptomatic phase) to T + 10 days. (T = Day 1).  <br>
