@@ -28,6 +28,7 @@ Also,
    
 ## Covid 19 CME materials
 - [Infectious Disease Society of America Podcasts](https://www.idsociety.org/Podcasts/)
+- [IDSA Chasing the Sun](https://idweek.org/program/chasing-the-sun/)
 - [Coursera, Contact Tracing Course](https://www.coursera.org/learn/covid-19-contact-tracing), free course from JHU. 
 - [Covid Treatment Guidelines, live document from NIH](https://www.covid19treatmentguidelines.nih.gov/)
 - [Covid Clinical Studies, preventionnetwork.org](https://coronaviruspreventionnetwork.org/)
