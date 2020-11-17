@@ -7,6 +7,12 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [National Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america), Collected by IHME
 - [Daily Testing Trends per State](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), collected by JHU
 
+## Mortality Rate in the United States
+- [Flu View Interactive](https://www.cdc.gov/flu/weekly/fluviewinteractive.htm)
+- [Pneumonia and Influenza Like Illness Mortality] (https://gis.cdc.gov/grasp/fluview/mortality.html)
+- [Excess Deaths due to Covid 19](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm)
+- [National Vital Statistics](https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm), all births, all deaths, all causes
+
 **Testing Positivity Rate**  Lower than 5-7% indicates good community control.  This number reflects access to testing, contact tracing, and containment of community spread. Also an indirect measures of the question, "Does this community adhere to recommended public health measures: masks, social distancing, and hand washing?"
 - [Governor Sisolak Press Releases](https://nvhealthresponse.nv.gov/news-resources/press-releases/)    
 - Aug 14, 2020 Nevada's [Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf)
