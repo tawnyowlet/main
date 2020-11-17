@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 
 ## Mortality Rate in the United States
 - [Flu View Interactive](https://www.cdc.gov/flu/weekly/fluviewinteractive.htm)
-- [Pneumonia and Influenza Like Illness Mortality] (https://gis.cdc.gov/grasp/fluview/mortality.html)
+- [Pneumonia and Influenza Like Illness Mortality](https://gis.cdc.gov/grasp/fluview/mortality.html)
 - [Excess Deaths due to Covid 19](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm)
 - [National Vital Statistics](https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm), all births, all deaths, all causes
 
