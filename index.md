@@ -6,6 +6,10 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [State of Nevada COVID data](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9), Collected by Nevada HHS
 - [National Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america), Collected by IHME
 - [Daily Testing Trends per State](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), collected by JHU
+## Videos for Understanding for Vaccines
+- [Paul Offit November Update on Vu-Medi](https://www.vumedi.com/video/covid-19-vaccine-november-update-what-does-pfizers-modernas-95-effective-mrna-vaccine-mean-for-the-s/)
+- ZZDog MD
+- [YouCanKnowThings.Com}(https://youtu.be/_pTnn878F5w)
 
 ## Mortality Rate in the United States
 - [Flu View Interactive](https://www.cdc.gov/flu/weekly/fluviewinteractive.htm)
