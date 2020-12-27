@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 ## Videos for Understanding for Vaccines
 - [Paul Offit November Update on Vu-Medi](https://www.vumedi.com/video/covid-19-vaccine-november-update-what-does-pfizers-modernas-95-effective-mrna-vaccine-mean-for-the-s/)
 - ZZDog MD
-- [YouCanKnowThings.Com}(https://youtu.be/_pTnn878F5w)
+- [YouCanKnowThings.Com](https://youtu.be/_pTnn878F5w)
 
 ## Mortality Rate in the United States
 - [Flu View Interactive](https://www.cdc.gov/flu/weekly/fluviewinteractive.htm)
