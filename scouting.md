@@ -14,9 +14,9 @@
 - [Scouting Magazine](https://scoutingmagazine.org/).  Official Scouting Magazine for the latest updates on BSA 
 - [Merit Badges for Scouts](https://blog.scoutingmagazine.org/2020/03/20/merit-badges-for-social-distancing). Link to Scouting Magazine article about Social Distance Merit Badges
 
-## For Dad
+### For Dad
 
--[12th edition of BSA Handbook (484 pages)](https://app.box.com/s/jh6w0v5yz4e1rl1nr1zg-)found at this [library](https://troop501.net/library/)
+- [12th edition of BSA Handbook (484 pages)](https://app.box.com/s/jh6w0v5yz4e1rl1nr1zg-)found at this [library](https://troop501.net/library/)
 
 ### Local Council 
 - [Las Vegas Boy Scouts of America](https://lvacbsa.org/), Website for local council. phone 702-736-4366
