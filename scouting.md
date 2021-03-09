@@ -9,7 +9,7 @@
 - [BSA list of all Merit Badges](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/-)
 - See 3/9/2021 Email from me about online Merit Badge classes from Ms Phegly, Troop 420 advancement chair
 - [Troop 109n](https://www.troop109nj.com/merit-badge-library/). Online access to some popular Merit Badge Pamphlets
-- [US Scouts.org] (http://usscouts.org/mb/worksheets/list.asp).  Comprehensive collection of Merit Badge Pamphlets and worksheets
+- [US Scouts.org](http://usscouts.org/mb/worksheets/list.asp).  Comprehensive collection of Merit Badge Pamphlets and worksheets
 - [Troop 577](https://troop577wichita.weebly.com/- ). Introduction and links to BSA
 - [Scouting Magazine](https://scoutingmagazine.org/).  Official Scouting Magazine for the latest updates on BSA 
 - [Merit Badges for Scouts](https://blog.scoutingmagazine.org/2020/03/20/merit-badges-for-social-distancing). Link to Scouting Magazine article about Social Distance Merit Badges
