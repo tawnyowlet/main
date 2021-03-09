@@ -1,29 +1,31 @@
 
 ### Boy Scout Links
-[Las Vegas Boy Scouts of America](https://lvacbsa.org/), phone 702-736-4366
 
-- [Troop 420](https://www.hendersontroop420.com) has 17 Leaders, 23 Scouts
-- [Merit Badges for Scouts](https://blog.scoutingmagazine.org/2020/03/20/merit-badges-for-social-distancing)
-- [Scoutbook](https://scoutbook.scouting.org/) 
+- [Scoutbook](https://scoutbook.scouting.org/).  Access this site (with your long password) to log in hikes, rank requirements, view current troop calendar 
+- [Troop 420](https://www.hendersontroop420.com).  Troop has 17 Leaders, 24 Scouts.  Useful explanation of advancement, knot tying videos, and Troop 420 Specific resources such as Troop Library
+- [Official Boys Scouts of America]](https://www.scouting.org).  Plethora of explanation of rules, procedures, and content needed for mastery of rank
 
+### Merit Badge Ideas
+- [Troop 109n](https://www.troop109nj.com/merit-badge-library/). Online access to some popular Merit Badge Pamphlets
+
+- [US Scouts.org] (http://usscouts.org/mb/worksheets/list.asp).  Comprehensive collection of Merit Badge Pamphlets and worksheets
+- [Troop 577](https://troop577wichita.weebly.com/- ). Introduction and links to BSA
+- [Scouting Magazine](https://scoutingmagazine.org/).  Official Scouting Magazine for the latest updates on BSA 
+- [Merit Badges for Scouts](https://blog.scoutingmagazine.org/2020/03/20/merit-badges-for-social-distancing). Link to Scouting Magazine article about Social Distance Merit Badges
+
+## For Dad
+
+-[12th edition of BSA Handbook (484 pages)](https://app.box.com/s/jh6w0v5yz4e1rl1nr1zg-)found at this [library](https://troop501.net/library/)
+
+### Local Council 
+- [Las Vegas Boy Scouts of America](https://lvacbsa.org/), Website for local council. phone 702-736-4366
+- Scout Store: [7220 S. Paradise Road](https://lvacbsa.org/trading-post/)
+ 
+
+* Aaron Nelson, Scoutmaster
 * Carol Okins, new scout coordinator
-* Lorna, Merit Badge Coordinator
+* Lorna, Merit Badge Coordinator* Tristan Hou, Patrol Leader
 
-Scout Store: [7220 S. Paradise Road](https://lvacbsa.org/trading-post/)
-2-17-2021 Notes
-Scout Book 
 
-Uniform: shirt, make sure is big on him, one that will fit now and until he is 18
-Get sash for merit badges, and sash pin to make it look nice
-No pants needed.  He can wear jean or khakis.
-Hat is optional
-?Consider belt
 
-To get scout rank, needs to memorize oath before he can start earning merit badges.
-RIPR contact for oath performance etc.,
 
-Will take 1-2 months for magazine to arrive.
-Annual BSA fee, pro-rated $66.  Annual Troop Fee, prorated $60.
-1 time national feel $25
-
-Noah number
