@@ -7,16 +7,16 @@
 
 ### Merit Badge Ideas
 - [BSA list of all Merit Badges](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/-)
-- See 3/9/2021 Email from me about online Merit Badge classes from Ms Phegly, Troop 420 advancement chair
+- See 3/9/2021 Email from me about online Merit Badge classes from Ms Phegley, Troop 420 advancement chair
 - [Troop 109n](https://www.troop109nj.com/merit-badge-library/). Online access to some popular Merit Badge Pamphlets
 - [US Scouts.org](http://usscouts.org/mb/worksheets/list.asp).  Comprehensive collection of Merit Badge Pamphlets and worksheets
 - [Troop 577](https://troop577wichita.weebly.com/- ). Introduction and links to BSA
-- [Scouting Magazine](https://scoutingmagazine.org/).  Official Scouting Magazine for the latest updates on BSA 
 - [Merit Badges for Scouts](https://blog.scoutingmagazine.org/2020/03/20/merit-badges-for-social-distancing). Link to Scouting Magazine article about Social Distance Merit Badges
 
 ### For Dad
 
 - [12th edition of BSA Handbook (484 pages)](https://app.box.com/s/jh6w0v5yz4e1rl1nr1zg-)found at this [library](https://troop501.net/library/)
+- [Scouting Magazine](https://scoutingmagazine.org/).  Official Scouting Magazine for the latest updates on BSA 
 
 ### Local Council 
 - [Las Vegas Boy Scouts of America](https://lvacbsa.org/), Website for local council. phone 702-736-4366
@@ -25,7 +25,7 @@
 
 * Aaron Nelson, Scoutmaster
 * Carol Okins, new scout coordinator
-* Lorna, Merit Badge Coordinator* Tristan Hou, Patrol Leader
+* Lorna Phegl3y, Merit Badge Coordinator* Tristan Hou, Patrol Leader
 
 
 
