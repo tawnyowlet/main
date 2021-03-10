@@ -23,9 +23,10 @@
 - Scout Store: [7220 S. Paradise Road](https://lvacbsa.org/trading-post/)
  
 
-* Aaron Nelson, Scoutmaster
-* Carol Okins, new scout coordinator
-* Lorna Phegl3y, Merit Badge Coordinator* Tristan Hou, Patrol Leader
+* Mr Nelson, Scoutmaster
+* Ms Okins, new scout coordinator
+* Ms Phegley, Merit Badge Coordinator
+* Tristan, Patrol Leader
 
 
 
