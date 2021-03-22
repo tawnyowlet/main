@@ -5,10 +5,10 @@
 - [Troop 420](https://www.hendersontroop420.com)- Troop has 17 Leaders, 24 Scouts.  Useful explanation of advancement, knot tying videos, and Troop 420 Specific resources such as Troop Library
 - [Official Boys Scouts of America](https://www.scouting.org)- Plethora of explanation of rules, procedures, and content needed for mastery of rank
 
-### Current Merit Badge Projects, which you can view on mom's laptop 
-- [Chess Merit Badge Pamphlet](file:///Users/ThanyaLee/Downloads/Chess%20Merit%20Badge%20Pamphlet.pdf)
-- [Citizenship in the Nation](file:///Users/ThanyaLee/Downloads/Citizenship%20in%20the%20Nation%20Merit%20Badge%20Pamphlet.pdf)
-
+### Current Merit Badge Projects, which you can view on mom's laptop from bookmarks or at Troop 109n Library
+- [Chess Merit Badge Pamphlet](https://www.troop109nj.com/merit-badge-library/) Look up in Troop 109n library
+- [Citizenship in the Nation](https://www.troop109nj.com/merit-badge-library/) Look up in Troop 109 library
+- 
 ### Merit Badge Ideas
 - [BSA list of all Merit Badges](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/)
 - See 2/27/2021 Email from Troop 420 advancement chair or check out this [google doc](https://docs.google.com/document/d/11AoJ3qKQTUqAOqeT2D6Zb2Sn4_PGM4oJm6KCUD0VNsw/edit)
