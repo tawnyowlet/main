@@ -7,7 +7,7 @@
 
 ### Current Merit Badge Projects, which you can view on mom's laptop 
 - [Chess Merit Badge Pamphlet](file:///Users/ThanyaLee/Downloads/Chess%20Merit%20Badge%20Pamphlet.pdf)
-- [Citizenship in the Nation)(file:///Users/ThanyaLee/Downloads/Citizenship%20in%20the%20Nation%20Merit%20Badge%20Pamphlet.pdf)
+- [Citizenship in the Nation](file:///Users/ThanyaLee/Downloads/Citizenship%20in%20the%20Nation%20Merit%20Badge%20Pamphlet.pdf)
 
 ### Merit Badge Ideas
 - [BSA list of all Merit Badges](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/)
