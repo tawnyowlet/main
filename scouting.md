@@ -6,8 +6,7 @@
 - [Official Boys Scouts of America](https://www.scouting.org)- Plethora of explanation of rules, procedures, and content needed for mastery of rank
 
 ### Merit Badge Ideas
-- [BSA list of all Merit Badges](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/- )
-- [here](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/)
+- [BSA list of all Merit Badges](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/)
 - See 2/27/2021 Email from Troop 420 advancement chair or check out this [google doc](https://docs.google.com/document/d/11AoJ3qKQTUqAOqeT2D6Zb2Sn4_PGM4oJm6KCUD0VNsw/edit)
 - [Troop 109n](https://www.troop109nj.com/merit-badge-library/)- Online access to some popular Merit Badge Pamphlets
 - [US Scouts.org](http://usscouts.org/mb/worksheets/list.asp)- Comprehensive collection of Merit Badge Pamphlets and worksheets
