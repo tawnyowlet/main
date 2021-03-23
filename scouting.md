@@ -13,7 +13,7 @@
 - [BSA list of all Merit Badges](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/)
 - Collections of emails from Troop 420 advancement chair.  Check out this [google doc](https://docs.google.com/document/d/11AoJ3qKQTUqAOqeT2D6Zb2Sn4_PGM4oJm6KCUD0VNsw/edit) for access to various online classes
 - [Troop 109n](https://www.troop109nj.com/merit-badge-library/)- Online access to popular Merit Badge Pamphlets
-- [US Scouts.org](http://usscouts.org/mb/worksheets/list.asp)- Comprehensive collection of Merit Badge Worksheets
+- [US Scouts.org](http://usscouts.org/mb/worksheets/list.asp)- Comprehensive collection of Merit Badge Worksheets.  Noah, this is the site where you can download the PDF to type your answers in. Find topic and click on PDF column
 - [Troop 577](https://troop577wichita.weebly.com)- Introduction and links to BSA regarding Merit Badge Process
 - [Merit Badges for Scouts](https://blog.scoutingmagazine.org/2020/03/20/merit-badges-for-social-distancing)- Link to Scouting Magazine article about Social Distance Merit Badges
 
