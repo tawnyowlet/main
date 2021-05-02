@@ -25,6 +25,13 @@
 ### Local Council 
 - [Las Vegas Boy Scouts of America](https://lvacbsa.org/) 
 - Scout Store location: [7220 S. Paradise Road](https://lvacbsa.org/trading-post/)
+
+### Camping Supplies
+- Sleeping mat: Outdoorsman Lab
+- Pillow: Trekology
+- Quick drying towel: Rainleaf Microfiber towel 30x60
+- Solar pop up lamp: Inflatable Solar Light, Luci Outdoor 2.0, Mpowerd
+- plastic chain link laundry line
  
 
 * Mr Nelson, Scoutmaster
