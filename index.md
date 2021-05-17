@@ -10,9 +10,15 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 ## Vaccines.  O
 - [Pfizer December 2020 FDA Briefing Document](https://www.fda.gov/media/144245/download)
 - [ACIP/CDC Slide Presentation regarding EUA for ages 12-15 year olds, May 12, 2021](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-05-12.html?fbclid=IwAR0rEn7pW25PxZFcm-feJXKyHRK5PJx0yPDAiZwRJ_KAsdYMkLvi1tPyMuE)
-- [Pfizer Updated EUA Sheet regarding Pfizer for ages 12-15 year olds, May 10, 2021](http://labeling.pfizer.com/ShowLabeling.aspx?id=14471)
+- [Pfizer Updated EUA Sheet regarding Pfizer for ages 12-15 year olds, May 10, 2021](http://labeling.pfizer.com/ShowLabeling.aspx?id=14471)... *Serious adverse events are defined as:
+Death
+A life-threatening adverse event
+Inpatient hospitalization or prolongation of existing hospitalization
+A persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions
+A congenital anomaly/birth defect
+An important medical event that based on appropriate medical judgement may jeopardize the individual and may require medical or surgical intervention to prevent one of the outcomes listed above
 - [Your Local Epidemiologist Cliff Notes on the EUA for ages 12-15 year olds, May 12, 2021](https://yourlocalepidemiologist.substack.com/p/acip-meeting-for-the-pfizer-adolescent?fbclid=IwAR3z1ngBnSdqy3guzAp4c95O66Oo43o-faAgQQOSzoCsMtcMaBTCwHICQuE)
-- [AAP Press release regarding Pfizer EUA for 12-15 year olds, May 12, 2021](https://www.aappublications.org/news/2021/05/12/cdc-aap-pfizer-covid-vaccine-teens-051221). About 6% of vaccine recipients experienced an adverse event, including seven cases of swollen lymph nodes. There were five serious adverse events in the vaccine group (0.4%) including one person with abdominal pain, constipation and neuralgia and others with depression, anxiety and suicidal ideation. None of the serious events were determined to be related to the vaccine and no deaths were reported. There also were no reports of blood clots, serious allergic reactions or Bell’s palsy.
+- [AAP Press release regarding Pfizer EUA for 12-15 year olds, May 12, 2021](https://www.aappublications.org/news/2021/05/12/cdc-aap-pfizer-covid-vaccine-teens-051221). About 6% of vaccine recipients experienced an adverse event, including seven cases of swollen lymph nodes. There were five serious adverse events in the vaccine group (0.4%) including one person with abdominal pain, constipation and neuralgia and others with depression, anxiety and suicidal ideation. None of the serious events were determined to be related to the vaccine and no deaths were reported. There also were no reports of blood clots, serious allergic reactions or Bell’s palsy....
 -Once thawed, Pfizer use within 5 days, Moderna within 30 days.
 
 ## Vaccine Videos
