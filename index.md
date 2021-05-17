@@ -7,12 +7,13 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [National Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america), Collected by IHME
 - [Daily Testing Trends per State](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), collected by JHU
 
-## Vaccines
+## Vaccines.  O
 - [Pfizer December 2020 FDA Briefing Document](https://www.fda.gov/media/144245/download)
 - [ACIP/CDC Slide Presentation regarding EUA for ages 12-15 year olds, May 12, 2021](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-05-12.html?fbclid=IwAR0rEn7pW25PxZFcm-feJXKyHRK5PJx0yPDAiZwRJ_KAsdYMkLvi1tPyMuE)
-- [Pfizer Updated EUA Sheet regarding Pfizer for ages 12-15 year olds, May 10, 2021](https://www.fda.gov/media/144413/download?fbclid=IwAR2hI5knu-48vRquOSM2BzkLNUTg8I863sgPOUNqVWz1NZuVZzPfvp296rk)
+- [Pfizer Updated EUA Sheet regarding Pfizer for ages 12-15 year olds, May 10, 2021](http://labeling.pfizer.com/ShowLabeling.aspx?id=14471)
 - [Your Local Epidemiologist Cliff Notes on the EUA for ages 12-15 year olds, May 12, 2021](https://yourlocalepidemiologist.substack.com/p/acip-meeting-for-the-pfizer-adolescent?fbclid=IwAR3z1ngBnSdqy3guzAp4c95O66Oo43o-faAgQQOSzoCsMtcMaBTCwHICQuE)
-- [AAP Press release regarding Pfizer EUA for 12-15 year olds, May 12, 2021](https://www.aappublications.org/news/2021/05/12/cdc-aap-pfizer-covid-vaccine-teens-051221)About 6% of vaccine recipients experienced an adverse event, including seven cases of swollen lymph nodes. There were five serious adverse events in the vaccine group (0.4%) including one person with abdominal pain, constipation and neuralgia and others with depression, anxiety and suicidal ideation. None of the serious events were determined to be related to the vaccine and no deaths were reported. There also were no reports of blood clots, serious allergic reactions or Bell’s palsy.
+- [AAP Press release regarding Pfizer EUA for 12-15 year olds, May 12, 2021](https://www.aappublications.org/news/2021/05/12/cdc-aap-pfizer-covid-vaccine-teens-051221). About 6% of vaccine recipients experienced an adverse event, including seven cases of swollen lymph nodes. There were five serious adverse events in the vaccine group (0.4%) including one person with abdominal pain, constipation and neuralgia and others with depression, anxiety and suicidal ideation. None of the serious events were determined to be related to the vaccine and no deaths were reported. There also were no reports of blood clots, serious allergic reactions or Bell’s palsy.
+-Once thawed, Pfizer use within 5 days, Moderna within 30 days.
 
 ## Vaccine Videos
 - [CDC/IDSA Covid-19 Clinician Call: Pfizer Covid 19 Vaccine for ages 12-15 year olds](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-covid-19-clinician-call-pfizer-biontechs-covid-19-vaccine-for-adolescents-12-to-15-years-of-age/) 
