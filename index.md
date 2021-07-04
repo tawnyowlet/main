@@ -9,6 +9,20 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 
 ## Vaccines.  O
 - [Pfizer December 2020 FDA Briefing Document](https://www.fda.gov/media/144245/download)
+- [Pfizer May 2021 Vaccine EUA Amendment Review Memorandum](https://www.fda.gov/media/148542/download?fbclid=IwAR1pLI91_DRbAR52hVYYuGMX0bnrV8U0oSmQRdaILdhB-b8OLhwW-8Vytg0) <u>1 month after Dose 2 to data cutoff date or participant’s unblinding date (whichever was earlier)</u>
+12-15-year-olds: A total of 3 SAEs from 1 month after Dose 2 in ongoing follow-up were reported in 3 recipients (2 BNT162b2, 1 placebo). All SAEs in BNT162b2 recipients were considered unrelated to vaccination by the study investigator and by FDA.
+BNT162b2:
+• 1 participant with constipation was diagnosed with functional abdominal pain after an
+extensive work-up; the participant also developed generalized neuralgia beginning 1 day
+after Dose 2 (described above).
+• 1 participant with a long-standing history of ADHD and recent anxiety and depression
+diagnoses (4 months and 10 days prior to enrollment, respectively) was hospitalized for
+suicidal ideation 40 days after Dose 2. The event was ongoing at the time of the data cutoff date, but per the narrative provided by the Sponsor the event was assessed as
+resolved on March 15, 2021. The study investigator attributed the participant’s symptoms
+to psychosocial issues expressed by the participant as the cause of her exacerbation.
+Placebo:
+• One participant was hospitalized for appendicitis 63 days after the Dose 2 of placebo.
+Symptoms were ongoing as of the data cutoff date.  page 31
 - [ACIP/CDC Slide Presentation regarding EUA for ages 12-15 year olds, May 12, 2021](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-05-12.html?fbclid=IwAR0rEn7pW25PxZFcm-feJXKyHRK5PJx0yPDAiZwRJ_KAsdYMkLvi1tPyMuE)
 - [Pfizer Updated EUA Sheet regarding Pfizer for ages 12-15 year olds, May 10, 2021](http://labeling.pfizer.com/ShowLabeling.aspx?id=14471)... *Serious adverse events are defined as:
 Death
