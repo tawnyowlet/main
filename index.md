@@ -6,8 +6,11 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [State of Nevada COVID data](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9), Collected by Nevada HHS
 - [National Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america), Collected by IHME
 - [Daily Testing Trends per State](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), collected by JHU
+## Myocarditis Risk
 
-## Vaccines.  O
+## Testing Algorithms
+
+## Vaccines  
 - [Pfizer December 2020 FDA Briefing Document](https://www.fda.gov/media/144245/download)
 - [Pfizer May 2021 Vaccine EUA Amendment Review Memorandum](https://www.fda.gov/media/148542/download?fbclid=IwAR1pLI91_DRbAR52hVYYuGMX0bnrV8U0oSmQRdaILdhB-b8OLhwW-8Vytg0) <u>1 month after Dose 2 to data cutoff date or participant’s unblinding date (whichever was earlier)</u>
 12-15-year-olds: A total of 3 SAEs from 1 month after Dose 2 in ongoing follow-up were reported in 3 recipients (2 BNT162b2, 1 placebo). All SAEs in BNT162b2 recipients were considered unrelated to vaccination by the study investigator and by FDA.
