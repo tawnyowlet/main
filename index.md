@@ -7,8 +7,18 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [National Covid 19 Projections](https://covid19.healthdata.org/united-states-of-america), Collected by IHME
 - [Daily Testing Trends per State](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), collected by JHU
 ## Myocarditis Risk
-
+- June 23, 2021 Your Local Epidemiologist's "[Today's ACIP meeting: myocarditis and booster shots]"(https://yourlocalepidemiologist.substack.com/p/todays-acip-meeting-myocarditis-and)
+- Rain coat analogy (what is local community prevalance)
+- Being robbed, putting in an alarm system to prepare for second potential event
+- 
 ## Testing Algorithms
+- [BINAXNow Covid 19 Abbot Site](https://www.abbott.com/corpnewsroom/diagnostics-testing/BinaxNOW-what-you-need-to-know.html)
+1. Symptomatic persons 64.2% sensitivity and Asymptomatic persons 35.8% sensitivity.  So high False negative rate.  If the pretest probability is high (classic symptoms, known exposure)--- should purse NAAT or PCR test for confirmation of negative antigen test.  Patient needs to isolate for 2-3 days until PCR results return.
+2. Near 100% Specificity for both groups.  So a positive is a true positive
+- [CDC MMR on BinaxNow Test](https://www.cdc.gov/mmwr/volumes/70/wr/mm7003e3.htm)
+- [CDC Antigen Testing Algorithm](https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/Antigen_Testing_Algorithm_2020-12-14_v03_NO_DRAFT_SPW_508.pdf)
+- [Covid 19 Diagnostics in Context](https://www.abbott.com/corpnewsroom/diagnostics-testing/BinaxNOW-what-you-need-to-know.html)
+- 
 
 ## Vaccines  
 - [Pfizer December 2020 FDA Briefing Document](https://www.fda.gov/media/144245/download)
