@@ -15,6 +15,8 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [BINAXNow Covid 19 Abbot Site](https://www.abbott.com/corpnewsroom/diagnostics-testing/BinaxNOW-what-you-need-to-know.html)
 1. Symptomatic persons 64.2% sensitivity and Asymptomatic persons 35.8% sensitivity.  So high False negative rate.  If the pretest probability is high (classic symptoms, known exposure)--- should purse NAAT or PCR test for confirmation of negative antigen test.  Patient needs to isolate for 2-3 days until PCR results return.
 2. Near 100% Specificity for both groups.  So a positive is a true positive
+3. Best done before day 7.  Ideally days 3-5.  Insert while rotating 3/4 inch.  Rub in circular motion on nasal wals 5x for at least 15 second each nostril
+
 - [CDC MMR on BinaxNow Test](https://www.cdc.gov/mmwr/volumes/70/wr/mm7003e3.htm)
 - [CDC Antigen Testing Algorithm](https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/Antigen_Testing_Algorithm_2020-12-14_v03_NO_DRAFT_SPW_508.pdf)
 - [Covid 19 Diagnostics in Context](https://www.abbott.com/corpnewsroom/diagnostics-testing/BinaxNOW-what-you-need-to-know.html)
